@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bg_white_rounded"
+    android:layout_marginBottom="8dp"
+    android:elevation="2dp">
+
+    <!-- Note: Jika bg_white_rounded belum ada, bisa pakai android:background="#FFFFFF" biasa -->
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Wilayah"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/theme_dark_purple" />
+
+    <TextView
+        android:id="@+id/tvCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kode"
+        android:textSize="14sp"
+        android:textColor="@color/theme_violet" />
+</LinearLayout>

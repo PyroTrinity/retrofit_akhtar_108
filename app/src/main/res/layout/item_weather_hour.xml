@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp"
+    android:background="@drawable/bg_white_rounded"
+    android:layout_marginEnd="10dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <!-- Gunakan bg_white_rounded (file drawable warna putih radius) agar rapi -->
+
+    <TextView
+        android:id="@+id/tvJam"
+        android:text="13:00"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="@color/theme_dark_purple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/ivIcon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/tvSuhu"
+        android:text="28°"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/theme_dark_purple"
+        android:layout_marginTop="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvDesc"
+        android:text="Cerah"
+        android:textSize="12sp"
+        android:textColor="@color/theme_violet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

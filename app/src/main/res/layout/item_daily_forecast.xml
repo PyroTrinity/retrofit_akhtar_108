@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:gravity="center"
+    android:layout_marginEnd="12dp"
+    android:layout_marginBottom="4dp"
+    android:background="@drawable/bg_white_rounded"
+    android:elevation="2dp">
+
+    <!-- Tanggal (Warna Ungu Gelap) -->
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="23/11"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="@color/theme_dark_purple" />
+
+    <!-- Icon Cuaca -->
+    <ImageView
+        android:id="@+id/ivIconDay"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="4dp"
+        android:contentDescription="Ikon Cuaca"/>
+
+    <!-- Suhu Maks/Min (Warna Ungu Gelap) -->
+    <TextView
+        android:id="@+id/tvTempMaxMin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="32° / 24°"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="@color/theme_dark_purple" />
+
+    <!-- Deskripsi Cuaca (Warna Violet) -->
+    <TextView
+        android:id="@+id/tvWeatherDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Berawan"
+        android:textSize="12sp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:textColor="@color/theme_violet"
+        android:layout_marginTop="2dp" />
+
+    <!-- Persentase Hujan (Warna Soft Blue) -->
+    <TextView
+        android:id="@+id/tvRainChance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10% hujan"
+        android:textSize="11sp"
+        android:textStyle="italic"
+        android:textColor="@color/theme_soft_blue"
+        android:layout_marginTop="2dp" />
+
+</LinearLayout>

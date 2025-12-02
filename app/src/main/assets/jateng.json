@@ -1,0 +1,98 @@
+[
+  {
+    "code": "33",
+    "name": "JAWA TENGAH",
+    "children": [
+      {
+        "code": "33.74",
+        "name": "KOTA SEMARANG",
+        "children": [
+          {
+            "code": "33.74.01",
+            "name": "Semarang Tengah",
+            "children": [
+              { "code": "33.74.01.1001", "name": "Miroto" },
+              { "code": "33.74.01.1002", "name": "Brumbungan" },
+              { "code": "33.74.01.1003", "name": "Jagalan" },
+              { "code": "33.74.01.1004", "name": "Kranggan" },
+              { "code": "33.74.01.1005", "name": "Gabahan" },
+              { "code": "33.74.01.1006", "name": "Kembangsari" },
+              { "code": "33.74.01.1007", "name": "Sekayu" },
+              { "code": "33.74.01.1008", "name": "Pandansari" },
+              { "code": "33.74.01.1009", "name": "Bangunharjo" },
+              { "code": "33.74.01.1010", "name": "Kauman" },
+              { "code": "33.74.01.1011", "name": "Purwodinatan" },
+              { "code": "33.74.01.1012", "name": "Karang Kidul" },
+              { "code": "33.74.01.1013", "name": "Pekunden" },
+              { "code": "33.74.01.1014", "name": "Pindrikan Kidul" },
+              { "code": "33.74.01.1015", "name": "Pindrikan Lor" }
+            ]
+          },
+          {
+            "code": "33.74.02",
+            "name": "Semarang Utara",
+            "children": [
+              { "code": "33.74.02.1001", "name": "Bandarharjo" },
+              { "code": "33.74.02.1002", "name": "Bulu Lor" },
+              { "code": "33.74.02.1003", "name": "Plombokan" },
+              { "code": "33.74.02.1004", "name": "Purwosari" },
+              { "code": "33.74.02.1005", "name": "Kuningan" },
+              { "code": "33.74.02.1006", "name": "Panggung Lor" },
+              { "code": "33.74.02.1007", "name": "Panggung Kidul" },
+              { "code": "33.74.02.1008", "name": "Tanjung Mas" },
+              { "code": "33.74.02.1009", "name": "Dadapsari" }
+            ]
+          },
+          {
+            "code": "33.74.03",
+            "name": "Semarang Timur",
+            "children": [
+              { "code": "33.74.03.1001", "name": "Kemijen" },
+              { "code": "33.74.03.1002", "name": "Rejomulyo" },
+              { "code": "33.74.03.1003", "name": "Mlatibaru" },
+              { "code": "33.74.03.1004", "name": "Kebonagung" },
+              { "code": "33.74.03.1005", "name": "Mlatiharjo" },
+              { "code": "33.74.03.1006", "name": "Bugangan" },
+              { "code": "33.74.03.1007", "name": "Sarirejo" },
+              { "code": "33.74.03.1008", "name": "Rejosari" },
+              { "code": "33.74.03.1009", "name": "Karangturi" },
+              { "code": "33.74.03.1010", "name": "Karangtempel" }
+            ]
+          },
+          {
+            "code": "33.74.10",
+            "name": "Tembalang",
+            "children": [
+              { "code": "33.74.10.1001", "name": "Meteseh" },
+              { "code": "33.74.10.1002", "name": "Rowosari" },
+              { "code": "33.74.10.1003", "name": "Mangunharjo" },
+              { "code": "33.74.10.1004", "name": "Bulusan" },
+              { "code": "33.74.10.1005", "name": "Kramas" },
+              { "code": "33.74.10.1006", "name": "Tembalang" },
+              { "code": "33.74.10.1007", "name": "Jangli" },
+              { "code": "33.74.10.1008", "name": "Tandang" },
+              { "code": "33.74.10.1009", "name": "Kedungmundu" },
+              { "code": "33.74.10.1010", "name": "Sendangguwo" },
+              { "code": "33.74.10.1011", "name": "Sendangmulyo" },
+              { "code": "33.74.10.1012", "name": "Sambiroto" }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "33.02",
+        "name": "KAB. BANYUMAS",
+        "children": [
+          {
+            "code": "33.02.01",
+            "name": "Lumbir",
+            "children": [
+              { "code": "33.02.01.2001", "name": "Cirahab" },
+              { "code": "33.02.01.2002", "name": "Canduk" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Gradasi dari Violet (53629E) ke Soft Blue (87BAC3) -->
+    <gradient
+        android:startColor="@color/theme_violet"
+        android:endColor="@color/theme_soft_blue"
+        android:angle="315" />
+    <!-- angle 315 membuat gradasi diagonal dari kiri-atas ke kanan-bawah -->
+
+    <corners android:radius="20dp" />
+</shape>

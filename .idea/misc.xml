@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit/app/src/main/res/layout/activity_weather.xml" value="0.27447916666666666" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit/app/src/main/res/layout/item_daily_forecast.xml" value="0.27447916666666666" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit/app/src/main/res/layout/item_location.xml" value="0.27447916666666666" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit/app/src/main/res/layout/item_weather_hour.xml" value="0.27447916666666666" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit_tugas/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit_tugas/app/src/main/res/layout/activity_weather.xml" value="0.1" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit_tugas_backup/app/src/main/res/drawable/bg_gradient_card.xml" value="0.1111111111111111" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit_tugas_backup/app/src/main/res/drawable/bg_white_rounded.xml" value="0.2564814814814815" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit_tugas_backup/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit_tugas_backup/app/src/main/res/layout/activity_weather.xml" value="0.22826086956521738" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit_tugas_backup/app/src/main/res/layout/item_daily_forecast.xml" value="0.1" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit_tugas_backup/app/src/main/res/layout/item_location.xml" value="0.22826086956521738" />
+        <entry key="..\:/CollegeProject/Semester5/PemrogramanBerbasisMobile/retrofit_tugas_backup/app/src/main/res/layout/item_weather_hour.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
